@@ -29,9 +29,7 @@ The following Excel files were used to build the Power BI dashboard:
 - 📥 [dim_rooms.xlsx](Dataset/dim_rooms.xlsx)  
 - 📥 [fact_aggregated_bookings.xlsx](Dataset/fact_aggregated_bookings.xlsx)
 
- **Power BI File**
 
-- 📊 [hospitality_project.pbix](Power%20BI%20file/hospitality_project.pbix)
 
 **Key Metrics & Insights**
 - **RevPAR**, **ADR**, and **Occupancy %** across cities, room types, and platforms  
